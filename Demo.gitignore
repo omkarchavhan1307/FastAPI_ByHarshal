@@ -1,7 +1,4 @@
-venv/
-.venv/
-__pycache__/
-*.pyc
-.env
-.vscode/
-.idea/
+Add-Content .gitignore "venv/"
+Add-Content .gitignore ".env"
+Add-Content .gitignore "__pycache__/"
+Add-Content .gitignore "*.pyc"
