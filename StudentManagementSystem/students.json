@@ -1,0 +1,116 @@
+[
+    {
+        "name": "demo",
+        "roll": 101,
+        "age": 21,
+        "year": "Final Year",
+        "email": "demo@gmail.com",
+        "subjects": {
+            "python": 85,
+            "java": 78,
+            "database": 90
+        },
+        "hobbies": [
+            "coding",
+            "cricket",
+            "reading"
+        ],
+        "phone": "9876543210",
+        "city": "Pune"
+    },
+    {
+        "name": "Rahul Patil",
+        "roll": 102,
+        "age": 20,
+        "year": "Third Year",
+        "email": "rahul.patil@gmail.com",
+        "subjects": {
+            "python": 88,
+            "java": 75,
+            "database": 82
+        },
+        "hobbies": [
+            "football",
+            "coding",
+            "music"
+        ],
+        "phone": "9876543211",
+        "city": "Pune"
+    },
+    {
+        "name": "Sneha Joshi",
+        "roll": 103,
+        "age": 21,
+        "year": "Final Year",
+        "email": "sneha.joshi@gmail.com",
+        "subjects": {
+            "python": 92,
+            "java": 86,
+            "database": 89
+        },
+        "hobbies": [
+            "reading",
+            "painting",
+            "travelling"
+        ],
+        "phone": "9876543212",
+        "city": "Mumbai"
+    },
+    {
+        "name": "Amit Sharma",
+        "roll": 104,
+        "age": 22,
+        "year": "Final Year",
+        "email": "amit.sharma@gmail.com",
+        "subjects": {
+            "python": 79,
+            "java": 91,
+            "database": 85
+        },
+        "hobbies": [
+            "cricket",
+            "gaming",
+            "coding"
+        ],
+        "phone": "9876543213",
+        "city": "Nashik"
+    },
+    {
+        "name": "Priya Kulkarni",
+        "roll": 105,
+        "age": 20,
+        "year": "Third Year",
+        "email": "priya.kulkarni@gmail.com",
+        "subjects": {
+            "python": 95,
+            "java": 89,
+            "database": 93
+        },
+        "hobbies": [
+            "dance",
+            "reading",
+            "photography"
+        ],
+        "phone": "9876543214",
+        "city": "Nagpur"
+    },
+    {
+        "name": "Akash Jadhav",
+        "roll": 106,
+        "age": 21,
+        "year": "Final Year",
+        "email": "akash.jadhav@gmail.com",
+        "subjects": {
+            "python": 84,
+            "java": 80,
+            "database": 87
+        },
+        "hobbies": [
+            "cricket",
+            "gym",
+            "travelling"
+        ],
+        "phone": "9876543215",
+        "city": "Kolhapur"
+    }
+]

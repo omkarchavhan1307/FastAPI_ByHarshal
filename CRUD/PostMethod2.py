@@ -33,4 +33,4 @@ def newStudent(info:studstruct):
 
     collection.insert_one(sinfo)
 
-    return{"message":"new student store in mongodb"}
+    return{"message" : "new student store in mongodb"}
