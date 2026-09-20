@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from pymongo import MongoClient
 
-connectionstring = MongoClient("mongodb://localhost:27017/")
+connectionstring = MongoClient("mongodb://localhost:27017")
 
 database = connectionstring["studentdb001"]
 
@@ -15,7 +15,7 @@ app = FastAPI()
 
 @app.get("/")
 def greet():
-    return{"message": "management system"}
+    return{"message": "student management system"}
 
 @app.get("/allstudents")
 def Allstudents():
